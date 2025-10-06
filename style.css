@@ -12,3 +12,23 @@ body {
     font-family: Arial;
      text-align: left;
 }
+
+.Courier{
+    font-family: Courier;
+     text-align: left;
+}
+
+.Sans{
+    font-family: Sans Serif;
+     text-align: left;
+}
+
+.Helvetica{
+    font-family: Helvetica;
+     text-align: left;
+}
+
+.Georgia{
+    font-family: Georgia;
+     text-align: left;
+}
